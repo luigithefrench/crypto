@@ -2,6 +2,7 @@
 [![made-with-max](https://img.shields.io/badge/Made%20with-Cycling%20'74%20Max-1f425f)](https://cycling74.com/)
 
 # Introduction to CRYPTO
+[![Crypto Youtube Thumbnail](.\img\thumbnail.png)](https://youtu.be/H-QPCNa7Agc)
 
 ## Project Group 
 D - D
@@ -20,21 +21,24 @@ The aim of this project was to map our incoming voice onto a 3D sphere and enabl
 In order to initiate an interaction, a face has to be recognised via the webcam. As soon as this happens, CRYPTO awakes from its sleeping mode and appears in its true and colourful  form. In this awaken mode, our voice gets mapped onto the three combined jit.gl.mesh objects, and they start transforming themselves according to the frequencies in our voice. 
 
 
-## Task Segregation
+## Work allocation
 We have decided to work together as a team for most of this project. This means that eve-rybody was present for most of the time and tasks. This results in us gaining the maximum of experience from this project. However, there have been some times when the individual experts did small tasks on their own. 
 
-Who?                                    | When?       | What?
---------------------------------------  | ----------  | ------------
-Ehrenhauser, Fuchs, Gasciarino, Sorger  | 2020-05-18  | Project Idea
-Ehrenhauser, Fuchs, Gasciarino, Sorger  | 2020-05-19  | Project Idea
-Ehrenhauser, Fuchs, Gasciarino, Sorger  | 2020-05-20  | Preparation Project Pitch
-Ehrenhauser, Fuchs, Gasciarino, Sorger  | 2020-05-22  | Project Pitch with [hrtlacek](https://github.com/hrtlacek)
-Sorger                                  | 2020-05-22  | Creation Basic Patch
-Ehrenhauser, Fuchs                      | 2020-05-25  | Design
-Ehrenhauser, Fuchs, Gasciarino, Sorger  | 2020-05-26  | Continued Work
-Fuchs                                   | 2020-06-03  | Face Recognition
-Ehrenhauser, Fuchs, Gasciarino, Sorger  | 2020-06-05  | Continued Work
-Ehrenhauser, Fuchs, Gasciarino, Sorger  | 2020-06-12  | Project Completion
+Who?                                    | When?      | What?
+--------------------------------------  | ---------- | ------------
+Ehrenhauser, Fuchs, Gasciarino, Sorger  | 2020-05-18 | Project Idea
+Ehrenhauser, Fuchs, Gasciarino, Sorger  | 2020-05-19 | Project Idea
+Ehrenhauser, Fuchs, Gasciarino, Sorger  | 2020-05-20 | Preparation Project Pitch
+Ehrenhauser, Fuchs, Gasciarino, Sorger  | 2020-05-22 | Project Pitch with [hrtlacek](https://github.com/hrtlacek)
+Sorger                                  | 2020-05-22 | Creation Basic Patch
+Ehrenhauser, Fuchs                      | 2020-05-25 | Design
+Ehrenhauser, Fuchs, Gasciarino, Sorger  | 2020-05-26 | Continued Work
+Fuchs                                   | 2020-06-03 | Face Recognition
+Ehrenhauser, Fuchs, Gasciarino, Sorger  | 2020-06-05 | Continued Work
+Ehrenhauser, Fuchs, Gasciarino, Sorger  | 2020-06-12 | Project Completion
+Fuchs                                   | 2020-06-17 | Video shoot
+Sorger                                  | 2020-06-19 | Video cut
+Gasciarino                              | 2020-06-21 | Video upload & final commit
 
 
 # Acknowledgments
