@@ -2,7 +2,7 @@
 [![made-with-max](https://img.shields.io/badge/Made%20with-Cycling%20'74%20Max-1f425f)](https://cycling74.com/)
 
 # Introduction to CRYPTO
-[![Crypto Youtube Thumbnail](.\img\thumbnail.png)](https://youtu.be/H-QPCNa7Agc)
+[![Crypto Youtube Thumbnail](https://raw.githubusercontent.com/luigithefrench/crypto/master/img/thumbnail.png)](https://youtu.be/H-QPCNa7Agc)
 
 ## Project Group 
 D - D
